@@ -59,5 +59,6 @@ li:hover .un{
         width: 100%;
         display: block;
         margin: 0;
+        animation: none;
     }
 }
